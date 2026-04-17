@@ -347,3 +347,4 @@ High-performance GPUs like the GTX 980 draw far more power than the motherboard 
         *   The **GT 610** is like a **Bicycle** in a parking lot. It parks in its space and leaves the neighbor's space empty.
         *   The **GTX 980** is like a **Wide Truck**. Its tires are only in **one** parking space (one electrical connection), but its body is so wide that it **overhangs** into the next space. No other device can use that second slot because the GPU is sitting on top of it.
 
+---> Hardware-Setup completed,next continue with Software-setup topic ,     
