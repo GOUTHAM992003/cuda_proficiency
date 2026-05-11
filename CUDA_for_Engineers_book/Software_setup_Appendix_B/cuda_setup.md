@@ -1,6 +1,6 @@
 # CUDA Software Setup — Appendix B Notes
 
-## 📌 My System State (Verified)
+## My System State (Verified)
 
 | Property | Value |
 |---|---|
